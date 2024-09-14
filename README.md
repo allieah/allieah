@@ -1,13 +1,13 @@
 # Hello! I'm Allieah Ferrao 🌟
 
 ## 🚀 About Me
-I’m a passionate MCA student with a knack for turning ideas into interactive web applications. Currently, I'm deep into Java and React projects, crafting solutions that are as efficient as they are elegant. I thrive on innovation and am constantly exploring new technologies to push the envelope.
+I’m a passionate MCA student with a knack for turning ideas into interactive web applications. Currently, I'm into Java and React projects, crafting solutions that are as efficient as they are elegant. I thrive on innovation and am constantly exploring new technologies and improving my skillset.
 
 ## 📚 What I'm Learning
 I’m on a journey with Next.js and Tailwind CSS, diving into these powerful tools to create modern, responsive web designs. They’re helping me build sleek, user-friendly interfaces that stand out in today’s digital landscape.
 
 ## 🛠 Areas of Expertise
-With a solid foundation in web development and software engineering, I excel in delivering high-quality applications. My expertise includes:
+With a good foundation in web development and software engineering, I excel in delivering high-quality applications. My expertise includes:
 - Designing robust solutions with modern frameworks
 - Solving complex problems with creative and effective approaches
 - Leveraging a wide array of technologies to enhance user experiences
